@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mad dog rebellion, worm'd and muzzl'd, with some reasons why a personall treaty with his Majesty is delayed why held in doubt or suspence and why never like to be, if sone can withstand it.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89216</idno><idno type="EEBO-CITATION">99864321</idno>
+  <idno type="VID">161967</idno>
+  <idno type="EEBO-PROQUEST">2240909343</idno>
+  
+            <idno type="STC">Wing M237</idno>
+            <idno type="STC">Thomason E452_22</idno>
+            <idno type="STC">ESTC R204864</idno>
+            <idno type="PROQUEST">99864321</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864321e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89216)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161967)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E452[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mad dog rebellion, worm'd and muzzl'd, with some reasons why a personall treaty with his Majesty is delayed why held in doubt or suspence and why never like to be, if sone can withstand it.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "July. 13. 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:161967:1"/>
+            <head>The Mad Dog REBELLION, <hi>worm'd and muzzl'd.</hi> With some Reasons why a Personall Tre<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty with his Maje<g ref="char:EOLhyphen"/>sty is a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l yea why held in doubt or suspence and why ne<g ref="char:EOLhyphen"/>ver like to be, if some can withstand it.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is an exceeding joy, and cause of conti<g ref="char:EOLhyphen"/>nuall thankfullnesse to God, of and for all loyall Subjects, for having the happi<g ref="char:EOLhyphen"/>nesse to have so much grace given them from above, as not to be Rebells; but (in bad time be it spoken) <hi>England</hi> is now, and hath beene a long time plagued with them as the <hi>Egyp<g ref="char:EOLhyphen"/>tians</hi> were with innum<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rable Frogs, Lice, and Caterpil<g ref="char:EOLhyphen"/>lers, &amp;c. As they are <hi>Englishmen</hi> they are to be loved, and pittied, but as they are Rebells they are to be abhor'd; they are to be grieved for (as B<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en) but they are to be opposed as the worst of Enemies: as we ought to require them to a loyall peace; so also we should desire them to be all hang'd if they continue obstinate, bloody Rebells.</p>
+            <p>Let us examine and conferre a little with our selves, could any, or all the forraigne enemies we have, ever have done this once famous and Renowned Kingdome so much mischiefe as we have done and suff<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed more then 7 yeares? These barbarous Vi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>laines do know that they were never called of God, a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d they know also they were never sent by the King; they further know that by their Rebelion they have resisted God, offended the King, and ruined the Kingdome; and all this th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y have done under the pretence of Reformation, and under the colour or pretence of Gods cause, and the K<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs honour, and their Countreys good, Kim Kam, against all Law and order of God and man: are they Kings to <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>use and governe? Let us know how, and by whose permission: Are they the Kings Officers, or
+<pb n="2" facs="tcp:161967:2"/> Ministers: it were good that they would shew their com<g ref="char:EOLhyphen"/>mission, if they be (as they brag and boast) called of God; we are desirous to see some signes or good tokens of it in their better behaviour, it were not amisse if they would let us know what <hi>Moses,</hi> or what <hi>Aaron</hi> either call'd, or caus'd them to rise; if for the Protestant Religion▪ we had it, and it was a glorious Church here, and an illustrious splendor to all Christian Nations, and might, and would have remai<g ref="char:EOLhyphen"/>ned with us continually, if they (like bruit <hi>Bores</hi>) had not violently torne downe the hedges of our fruitfull and flou<g ref="char:EOLhyphen"/>rishing <hi>Vinyard,</hi> devoured her <hi>Grapes,</hi> rooted up her <hi>Vines,</hi> and broken downe the Walls of our peacefull <hi>Sion,</hi> where<g ref="char:EOLhyphen"/>by they have made Gods houses of Prayer the Divells dennes of Thieves. They had forgott (or else they never remem<g ref="char:EOLhyphen"/>bred) that Christ commanded them to flee from persecuti<g ref="char:EOLhyphen"/>on, not to fight for Religion; but here was no persecu<g ref="char:EOLhyphen"/>tion to flee from, or any Protestant Religion to fight for, for, we had it in quiet use, practise, and possession; the Rule of Christian<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is to s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffer as Martyrs, and not to mur<g ref="char:EOLhyphen"/>der as Tyrants; whereby may be plainely perceived that the Rebells, and holy, wicked, devout, ungodly Sain<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and Army have neither folowed the Counsell of Christ, the constancy of the Martyrs, nor the peaceable known Laws of the Kingdome: these are the fruits of their faiths, this is the regard they have of their owne soules; for they hold i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no sinne to be perjured; the Citizens of <hi>London,</hi> and all other Cities, Townes, and Corporations in <hi>England</hi> all of them (who are free of any Trades) did take Oathes in this manner.</p>
+            <p>
+               <hi>I doe sweare to be true to our Sovoraigne Lord, King</hi> James, <hi>(in whose Raigne there are many men alive, when they were bound Apprentises) but the like, and the same bond and Oath hath beene taken by two many perjur'd Rebells; since the raigne of our soveraigne Lord King</hi> Charles, <hi>and to his Lawfull heires and successors; it were good that every Citizen, Tradesman, or any Subjects whatsoever, to consider what, and to whom they have sworne, and to remember who it is that will call them to an ac<g ref="char:EOLhyphen"/>coumpt
+<pb n="3" facs="tcp:161967:2"/> for their perjury in the breach of their oathes, by an un<g ref="char:EOLhyphen"/>naturall and accurst rebellion; but it may be objected that all the Nobility and Gentry in his Majesties Dominions have taken the same Oath, and that every Member of Parliament of both Houses, Peeres and Commons have taken the said Oath, and the most of them have made such slender accoumpt of the said Oath that they have broken the said Oath, and all the Oathes of Ale<g ref="char:EOLhyphen"/>geance, supremacy, fidelity, and Loyalty, in raising and making Warres again their Soveraigne, whom they are sworne to obey, and by and from whom they have and hold their honours and great estates, many of them being his Majesties owne houshold sworne servants; therefore seeing our betters have lead us (poore Citi<g ref="char:EOLhyphen"/>zens and Tradesmen) into perjury by our following their example, and if it do happen that we fall into perdition with them, this is like to be our best comfort, that we have right Honourable, and rich Worshipfull company and companions.</hi>
+            </p>
+            <p>Thus hath the Devill rob'd you of your integrity, and Loyalty, which you owed to a gracious King, and you have basely bestowed all your obedience upon an imposture, a monstrous Idoll, a thing without a head, a headles thing, by fooles and knaves honoured and call'd a Parliament.</p>
+            <p>The loving Independent who would have all things in a parity or equality, no superority, no inferiority, no man in better or worse estate then another; this is a hard matter to bring to passe, but yet it may and will be done, if the Re<g ref="char:EOLhyphen"/>bells do go on as they have hitherto; the businesse must be done by killing and murder (as they are old excellent at it) the fooles must kill all the wisemen, the knaves must kill all the honest men, the deformed must kill all that are hand<g ref="char:EOLhyphen"/>some, the rude must kill all the eloquent, the ignorant must kill all that have knoledge, the young must kill all the old, the poore must kill all the rich, and this is the way to make all even, and lay all levell.</p>
+            <p>Thus by ambition they would raigne over all, and by A<g ref="char:EOLhyphen"/>varice they would every whit; these are our earthly mortall <hi>Lucifers,</hi> these are the aspiring <hi>Phaetons,</hi> these are they that do scorne good Counsell; for indeede there is no perswa<g ref="char:EOLhyphen"/>sion
+<pb n="4" facs="tcp:161967:3"/> where Treason masters reason; they had rather runne the hazzerd to endure the miseries of hunger, cold, halter, and Hell, then to recant, repent, or returne into the pale or compasse of obedience, wherein their whole safty con<g ref="char:EOLhyphen"/>sists, both in this life and in a better; yet for all that hath beene, or can be written or said, they are inwardly bent against Peace, ar a Personalll thing call'd a Treaty: It would be accounted a strange boldnesse, and arrogancy in a mans heele to presume (not onely to Counsell but com<g ref="char:EOLhyphen"/>mand his Head) it is Treason to vilifie the King in words or writing, and good King <hi>Charles</hi> hath had more then his share both those wayes: it it is worse Treason to raise Arms without his commission, or to fight against him, but it is the worst and highest Treason to take him, to cast him into prison, to debarre him of all earthly comforts, to allow him no servant or friend to converse with him, to attempt by dive<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s wayes to murther him, this is somwhat more then Rebellion, and the highest pitch that Treason can mount to, except the Gallows.</p>
+            <p>Is there no other way to quench the thirst of Traytors but the blood Royall, and Loyall? my hope is better, though many true Subjects are ruined and undone in his M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s name, yet let those who pretend to keep the Lawes (by robbing the people) looke into all Histories, and they shall finde that all Rebells have come to such fearfull ends, as may terrifie all such as are in the same condition as they were; they may consider that the King hath often off ed more in mercy, then then they could by any meanes have escaped by justice; for never was so good a King so badly used, never King did offer Subjects more (or the like gracious <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs) and never did any ungracious Subj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts so slight and abuse such gracious favours, which because they were so scornful<g ref="char:EOLhyphen"/>ly refus'd, they will hardly get them again with much intrea<g ref="char:EOLhyphen"/>ty.</p>
+            <p>Therefore looke what you have done Rebells, you have (by murder) halfe unman'd a Kingdome; for there is left at the most but one Male for 5 Females; and halfe those
+<pb n="5" facs="tcp:161967:3"/> men are old, blinde, lame, or made Beggers by you or your good meanes, as you have brought death with the sword, so you have caused dearth by famine and scarcity, which will bring diseases; the spoyles which you have made in 3 Kingdomes will not, cannot be repaired in 50 yeares. Turne and repent, the King is mercifull on Land, and the Navy blocks you in by Sea; so that Rebells shall shortly have no safe staying here without submission, nor any flee<g ref="char:EOLhyphen"/>ing hence without destruction.</p>
+            <p>The Parliament made a selfe-denying Ordinance, which was, that no places of Office or profit which any of them (of either House) had by any Vote, Order, Grant, Gift or purchase, of goods, or Lands, that none of these, or any Interests of their owne (either generall or perticuler) should be any impediment, or Let to hinder a personall Treaty with his Maj sty; and now there are none in the Houses but such men as have places, Offices, and profits, who do oppose a personall Treaty, for feare they should be forc'd to su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>render, and be outed of their misgotten gaines: as a Master of the Chanceries place is 3000. l. a yeare: A postmasters place of England worth 3000. l. a yeare, ano<g ref="char:EOLhyphen"/>ther hath some Office in the Custome-house, or some are Auditors for his Majewies Revenues, some Committee<g ref="char:EOLhyphen"/>men, and <hi>(omnium gatherum)</hi> the Offices and places of va<g ref="char:EOLhyphen"/>lue to some of them thousands, and to the meanest of them hundreds of pounds, <hi>per annum.</hi>
+            </p>
+            <p>These men are the strongest, and prevailing party in the House, or Houses, the chiefe of them being the Lord <hi>Say,</hi> and the wisest the Earle of <hi>Pembroke, Vaine, Mildmay, Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tin, Prideaux, Challoner,</hi> and consequently all the pack of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m who are nominated to treat (upon the Even or Vigill) of Saint <hi>never come</hi> whose names are as followeth, Earles of <hi>Northumberland, Suffolke, Kent, Stamford, Lin<g ref="char:EOLhyphen"/>colne, (Pembroke,</hi> and <hi>Say</hi> before named) these are the weal<g ref="char:EOLhyphen"/>thiest and most politique of the House of Peeres, who are picked out of the whole bunch to be Treaters.</p>
+            <p>For the House of Commons, they have cul'd out and ap<g ref="char:EOLhyphen"/>pointed
+<pb n="6" facs="tcp:161967:4"/> these following birds of the like kind, <hi>(v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z) Sir Walter Earle,</hi> Sir Hairebraine (or <hi>Harbottle Grimstone</hi>) Sir <hi>William Lewis,</hi> Sir <hi>John Potts,</hi> Sir <hi>Robert Onslow,</hi> Sir <hi>Gilbert Gerard,</hi> Saint <hi>Robert Harly,</hi> Mr. <hi>Prideaux,</hi> Mr. <hi>Swinfen,</hi> Mr. <hi>Maynard,</hi> Mr. <hi>Wheeler,</hi> Mr. <hi>Lisle,</hi> Mr. <hi>Perpoynt, cum multis aliis.</hi>
+            </p>
+            <p>These are the names of some of the Treaters, divers of whom, went to tamper with the Common Coun<g ref="char:EOLhyphen"/>sell of the City, and finding the Citizens (for the most and better part) very much given to Loyalty to their Sove<g ref="char:EOLhyphen"/>raigne, and to a personall Treaty with his Majesty (which consequently will be the City and Kingdomes peace) which liking and good inclination in the Cit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zens did not rellish well in pallates of the Parliament men there present, who (to invade and shuffle of a Treaty for ever) began to make some mention of time, and place, when, and where this long lookt for, wish<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for, and often promised Treaty should, or shall be: thus in the scales of Ballance, of <hi>quando</hi> and <hi>ubi</hi> is to be weighed, the happinesse or infelicity of our Church, of our King, of out Lawes, Lives, Liberties, and Freedome.</p>
+            <p>But we must never expect this happinesse as long as this mighty selfe-interested, and selfe-partiall party (I might have said selfe-guilty too) are so prevalent and powerfull that they can, and do overpower all the best affected in both the Houses; for you must understand there are many a<g ref="char:EOLhyphen"/>mongst them who doe love the King and the Kingdomes Peace, who would be glad to be at home in quiet; but these men are used but as younger Brothers, they have re<g ref="char:EOLhyphen"/>ceived no portions, they do sit in the Houses onely to fill up the seates, and as the figure of 1 with a Cypher added to it doth make the number 10; so the <hi>Grandees</hi> (or <hi>Bashawes</hi>) though they are the fewer in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mber, yet they are the stronger and most powerfull by fo ce and usurpation, and withall are very loath and unwill <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g to let go their hold fast of what they have, or out of fe e, shame, and selfe guilti<g ref="char:EOLhyphen"/>nesse for their perfidiousnesse to their King, and breach of
+<pb n="7" facs="tcp:161967:4"/> trust to those persons and places for whom they were in<g ref="char:EOLhyphen"/>trusted; for these considerations, they (by the addition of the Cyphers) do seeme to be the whole number of both the Houses, and these are they that never will, nor never dare give a cordiall consent to a Pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sonall Treaty; nay, though they had sworne they would have one, and prefixed whe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and when, yet no man of sense or reason will be<g ref="char:EOLhyphen"/>lieve them; for now they have another feat or knack out of the budget of the reverend <hi>Hocus Pocus,</hi> which is that great numbers of hands are gathered, and to be gathered from many carelesse Ignorants, desperate factionists, blinde zealous Seperatists, Sect<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rious and godlesse Atheists, (besides cut throat <hi>Farfaxians</hi>) these are all incited and in<g ref="char:EOLhyphen"/>vited to bring in a Petition to the House of Commons a<g ref="char:EOLhyphen"/>gainst a personall Treaty, the said Petition (being penned by some of the wittiest of the wickedest of the Members) is shortly to be presented, and (no doubt) wilbe gracious<g ref="char:EOLhyphen"/>ly received and accepted by the most high and most mighty amongst the State Rebells, and this wilbe one of the flim flams that shall uphold their tottering greatnesse, and cast down all hope of a personall Treaty with his Majesty.</p>
+            <p>And surely it is not impertinent, or much out of the way of Loyalty to ask or be a little inquisitive whether the King be in health or sick, or alive or dead; howsoever we can neither heare from him, or have admittance to see him, or send, or receive any thing to or from him (this is harder usage then ever any Rogue or Traytor suffred) besides we have not heard of him a great while; and it is too well knowne that he hath not one friend to a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tend him, nor any one that loves him can be suffred to come nere him; his life hath beene attempted to be taken away by the two damna<g ref="char:EOLhyphen"/>ble, and speeding meanes of Pistol and Poyson, which though (by the mercy and favour of God) he hath happily escaped; yet is he in dayly and hourly danger to be murdred by machinatious, assassinations, and divilish practises; his Royall Person is immured under as hard, as close, and as Traytorous a restraint as ever he was (if he be living) and
+<pb facs="tcp:161967:5"/> the same Villaines that kept him close do keepe him still; and his good God (in whom he puts his whole trust and confidence) as he hath with his Mighty providence and po<g ref="char:EOLhyphen"/>wer defended him, so he will (in his owne good time) as he ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h comforted him in all his afflictions, likewise give him deliverance (by his Almighty grace and favour) out of all his trou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>les: And to conclude this point, it is the boun<g ref="char:EOLhyphen"/>den duty of all loyall Subjects to pray for his M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jesties life, honour, and safety, and to do their best endeavours for h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s freedome, and a Personall Treaty whereby this Kingdome may be blest with Peace and Tranquility.</p>
+            <p>If the Cit zens of London do love his Majesty, their own Peace and the Kingdom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, Let them not suffer the Trained Bands to guard a kennell of Traytors every day; is it not a wonder that those Souldiers (under a pretence of se ving the King) do every day and night lye in wait to take them, and violently hale and drag them to Prison? in which do<g ref="char:EOLhyphen"/>ings they are worse then the Hangman; for he (by Law) torments or executes none but Malefactors, Traytors, Thieves, and Murderers; but these Trained band men doe molest and trouble none but such as are true Subj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts to his Majesty, or such as are suspected to feare God, in honou<g ref="char:EOLhyphen"/>ring and serving the King; therefore it were good that these men would give over this base kinde of guarding and defending of his Majesties worst and dispightful enemies, and also that they would desist (or be more sparing) in the doing continuall mischiefe to his friends; for the Proverb saith, <hi>Love me, and love my Dog.</hi>
+            </p>
+            <p>
+               <hi>To doe as we should be done unto, is an excellent rule from the most excellent Scholemaster; now if all those Miscreant Recreants, would but take into their cursed considerations, what they have done to the King, and how they have dealt with him, and let them then speake truely whe<g ref="char:EOLhyphen"/>ther any of them would be contented to be unjustly (by his own servants) throwne out of his inheritance of goods, lands, possessions, treasure, and liberty, to be deprived of the comfort and company of wife, children, friend, houshold seruant to attend, Phisition for the bodies preserving, or D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vine for the soules solace; to haue his name blur'd with calumnious and bitter slanders, to be libelled against and reviled, and to be restrain<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d from writing or speaking in his owne defence. Shew me the man that hath suff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed this much, and thrice as much more; yet that man is as much inferiour to King Charles in his sufferings, as beneath him in Royalty of Birth, Birthright, Dignity, Piery, Constancy, Christian Patience, Invinci<g ref="char:EOLhyphen"/>ble Fortitude, and most Heroick Mag<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nimity.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
